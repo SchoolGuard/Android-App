@@ -1,0 +1,22 @@
+{
+  "schools": [
+    {
+      "name": "Marcellus High School",
+      "code": "MCSHS1",
+      "buildings": [
+        "Middle School",
+        "High School",
+        "Other School"
+      ]
+    },
+    {
+      "name": "RPI",
+      "code": "RPIFX1",
+      "buildings": [
+        "DCC",
+        "Library",
+        "Other Building"
+      ]
+    }
+  ]
+}
